@@ -1,4 +1,4 @@
-1.0.0 [18-10-2020]:
+1.0.0 [25-12-2021]:
  - Prima release pubblica!
  - Aggiunta la possibilità di installare la traduzione direttamente attraverso il 07th-Mod Installer
  - Aggiornata la traduzione all'ultima versione della patch di 07th-Mod (ultimo commit del 12-06-2021)
