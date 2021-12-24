@@ -48,7 +48,7 @@ https://github.com/The4Hokage99/umineko-questionsarc-ita/releases/latest
 
 5. Aprire la cartella del gioco (su Steam ad esempio sta in "Steam\steamapps\common\Umineko")
 
-6. Copiare il contenuto della cartella della traduzione italiana "Umineko Episodio 1 ITA" nella cartella del gioco.
+6. Copiare il contenuto della cartella della traduzione italiana "Umineko Question Arc ITA" nella cartella del gioco.
 
 7. Sostituire i file quando richiesto. Se non dovesse venire richiesto significa che probabilmente si è scelta la cartella sbagliata dove incollare il contenuto della traduzione.
 
