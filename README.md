@@ -1,6 +1,8 @@
 # Umineko Question Arcs - Traduzione italiana
 
-Il team di CTH Translations è lieto di fornirvi la traduzione italiana di Umineko Question Arcs Episodio 1 - La leggenda della Strega Dorata<br/>
+Il team di CTH Translations è lieto di fornirvi la traduzione italiana di Umineko Question Arcs.
+Per il momento sono disponibili i seguenti episodi:
+  ---Episodio 1 - La leggenda della Strega Dorata<br/>
 La traduzione si basa sull'incredibile lavoro di 07th-Mod che permette di aggiungere molte feature al gioco base, tra le quali il doppiaggio e la grafica migliorata.
 
 Potete contattarci attraverso la nostra pagina Facebook:<br/>
