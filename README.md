@@ -5,7 +5,7 @@ Per il momento sono disponibili i seguenti episodi:
   ---Episodio 1 - La leggenda della Strega Dorata<br/>
 La traduzione si basa sull'incredibile lavoro di 07th-Mod che permette di aggiungere molte feature al gioco base, tra le quali il doppiaggio e la grafica migliorata.
 
-Potete contattarci attraverso il nostro canale telegramk:<br/>
+Potete contattarci attraverso il nostro canale telegram:<br/>
 https://t.me/beyondtheataraxia
 
 Per avere un contatto più diretto con noi potete entrare nel nostro server Discord, dove si parla delle traduzioni in corso e si fornisce supporto tecnico:<br/>
