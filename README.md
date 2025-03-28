@@ -15,7 +15,25 @@ https://discord.gg/mxbdemDs28
 
 <br/>
 
-## Installazione
+## Installazione semplificata
+L'installazione semplificata, che è quella che raccomandiamo di fare, consiste nell'usare direttamente l'installer di 07th-Mod per installare molto facilmente e velocemente la nostra traduzione.
+
+Scaricare ed installare il gioco da Steam, GOG o MangaGamer:
+https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
+https://www.gog.com/game/umineko_when_they_cry_question_arcs
+https://www.mangagamer.com/detail.php?goods_type=0&product_code=177
+
+Scaricare ed aprire il 07th-Mod Installer:
+https://github.com/07th-mod/python-patcher/releases/latest
+
+Fare partire il menu di configurazione per l'installazione della patch per Umineko Question, mettendo la spunta sulla voce della traduzione italiana
+
+Installare la patch
+
+Finito!
+
+
+## Installazione manuale
 
 1. Scaricare ed installare il gioco da Steam, GOG o MangaGamer:<br/>
 https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/<br/>
